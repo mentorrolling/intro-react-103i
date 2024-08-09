@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nombre": "JavaScript",
+    "tipo": "Interpretado",
+    "popularidad": "Muy alta"
+  },
+  {
+    "id": 2,
+    "nombre": "Python",
+    "tipo": "Interpretado",
+    "popularidad": "Muy alta"
+  },
+  {
+    "id": 3,
+    "nombre": "Java",
+    "tipo": "Compilado",
+    "popularidad": "Muy alta"
+  },
+  {
+    "id": 4,
+    "nombre": "C#",
+    "tipo": "Compilado",
+    "popularidad": "Alta"
+  },
+  {
+    "id": 5,
+    "nombre": "C++",
+    "tipo": "Compilado",
+    "popularidad": "Alta"
+  },
+  {
+    "id": 6,
+    "nombre": "TypeScript",
+    "tipo": "Compilado",
+    "popularidad": "Alta"
+  },
+  {
+    "id": 7,
+    "nombre": "PHP",
+    "tipo": "Interpretado",
+    "popularidad": "Media"
+  },
+  {
+    "id": 8,
+    "nombre": "Swift",
+    "tipo": "Compilado",
+    "popularidad": "Media"
+  },
+  {
+    "id": 9,
+    "nombre": "Ruby",
+    "tipo": "Interpretado",
+    "popularidad": "Media"
+  },
+  {
+    "id": 10,
+    "nombre": "Go",
+    "tipo": "Compilado",
+    "popularidad": "Media"
+  }
+]
